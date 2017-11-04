@@ -1,2 +1,1 @@
 # Dettifoss
-Englist words software
